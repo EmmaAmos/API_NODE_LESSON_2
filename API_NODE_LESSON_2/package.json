@@ -8,9 +8,6 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-
   "author": "Emma Amos",
   "license": "ISC",
   "dependencies": {
